@@ -1,0 +1,45 @@
+
+:root {
+
+    --backgnd1: = white;
+    --btncolor: = blue;
+    --texthead: = black;
+    --textbtn: = white;
+
+}
+
+body {
+
+    background-color: var = (--backgnd1);
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+
+}
+
+header {
+
+    border-top: 0;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+
+
+}
+
+main {
+
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    
+
+}
+
+
+ul {
+
+    position: inherit;
+    margin: auto 50px;
+    list-style: none;
+  
+}
